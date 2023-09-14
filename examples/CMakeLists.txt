@@ -1,0 +1,5 @@
+add_subdirectory(xor)
+add_subdirectory(mnist)
+add_subdirectory(test)
+add_subdirectory(noise_function)
+add_subdirectory(optimizer_compare)
